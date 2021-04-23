@@ -1,0 +1,5 @@
+
+l	java:S116"QRename this field "car_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¯ØK8„İºÒ/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÄÖ™şÿÿÿÿ8‚”¼Ò/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÉ®øÿÿÿÿ8‚”¼Ò/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÉ®øÿÿÿÿ8‚”¼Ò/
